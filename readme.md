@@ -18,7 +18,7 @@
 git clone https://github.com/ThomasJanssen-tech/Local-RAG-with-Ollama
 cd Local-RAG-With-Ollama
 ```
-
+<h2> GenZ lingo.pdf is the file that contains information about post 2023 genz used terms.</h2>
 <h3>2. Create a virtual environment</h3>
 
 ```
