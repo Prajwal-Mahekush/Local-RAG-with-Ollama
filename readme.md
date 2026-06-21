@@ -1,8 +1,5 @@
 <h1>Build a local RAG with Ollama</h1>
 
-<h2>Watch the full tutorial on my YouTube Channel</h2>
-<div>
-
 
 </div>
 
