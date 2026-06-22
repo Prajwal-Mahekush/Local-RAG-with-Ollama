@@ -6,7 +6,7 @@
 <h2>Prerequisites</h2>
 <ul>
   <h3>No cap, your LLM is 404 coded when it comes to Gen Z slang.
-LlamaLingo is a local RAG pipeline on LLaMA 3.2 + LangChain + Ollama
+RizzBot is a local RAG pipeline on LLaMA 3.2 + LangChain + Ollama
 that bridges the gap between training cutoffs and evolving internet language.
 No fine-tuning. No API costs. Just pure aura farming for your local LLM. 🦙</h3>
   <li>Python 3.11+</li>
